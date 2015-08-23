@@ -1,0 +1,36 @@
+1936
+E-3
+Siraj
+Apartment
+E-546767
+5000
+* * * * *
+1930
+E-3
+Rajesh
+Appartment
+E-546768
+500
+* * * * *
+1935
+E-3
+Ramesh Babu
+Independent House
+E-546769
+660
+* * * * *
+1639
+E-3
+Suruaj Chodhry
+Colony
+E-546789
+500
+* * * * *
+1939
+E-3
+Rahul Gandhi
+Apartment
+E-546790
+210
+* * * * * 
+
