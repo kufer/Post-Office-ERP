@@ -1,0 +1,175 @@
+Andaman and Nicobar Islands	
+Port Blair
+<1000
+74
+* * * * * 
+Andhra Pradesh 	
+Hyderabad
+<1000
+50,51,52,53
+* * * * * 
+Arunachal Pradesh 	
+Itanagar
+>2000
+79
+* * * * * 		
+Assam
+Dispur
+>2000
+78
+* * * * *  	
+Bihar
+Patna 
+<2000
+80,81,82,83,84,85
+* * * * * 	
+Chandigarh 	
+Chandigarh
+>2000
+16
+* * * * * 
+Chattisgarh 	
+Raipur
+<2000
+49
+* * * * *  	
+Dadra and Nagar Haveli	
+Silvassa
+<1000
+39
+* * * * *  	
+Daman and Diu	
+Daman
+<1000
+36,39
+* * * * *  		
+Delhi	
+Delhi
+<2000
+11
+* * * * *  	
+Goa 	
+Panaji
+<1000
+40
+* * * * * 
+Gujarat 	
+Gandhinagar
+<2000 
+36,37,38,39	
+* * * * * 
+Haryana 	
+Chandigarh 
+>2000
+12,13	
+* * * * * 
+Himachal Pradesh 	
+Shimla
+>2000
+17 	
+* * * * * 
+Jammu and Kashmir 	 
+Srinagar
+>2000
+18,19
+* * * * * 
+Jharkhand 	
+Ranchi 
+<2000
+81,82,83	
+* * * * * 
+Karnataka 	
+Bangalore
+<200
+56,57,58,59	
+* * * * * 
+Kerala 	
+Thiruvananthapuram
+<1000
+67,68,69 	
+* * * * * 
+Lakshadweep 	
+Kavaratti
+<1000 
+68	
+* * * * * 
+Madhya Pradesh 	
+Bhopal
+<2000 
+45,46,47,48	
+* * * * * 
+Maharashtra 	
+Mumbai
+<1000
+40,41,42,43,44
+* * * * * 
+Manipur 	
+Imphal
+>2000 
+79	
+* * * * * 
+Meghalaya 	
+Shillong
+>2000 
+79	
+* * * * * 
+Mizoram 	
+Aizawl
+>2000
+79 	
+* * * * * 
+Nagaland 	
+Kohima
+>2000
+79 	
+* * * * * 
+Orissa 	
+Bhubaneswar
+<2000
+75,76,77 	
+* * * * * 
+Puducherry 	
+Puducherry
+<1000
+60 	
+* * * * * 
+Punjab 	
+Chandigarh 
+>2000
+14,15,16	
+* * * * * 
+Rajasthan 
+Jaipur
+<2000
+30,31,32,33,34 	
+* * * * * 
+Sikkim 	
+Gangtok
+>2000
+73
+* * * * * 
+Tamil Nadu 	
+Chennai
+<1000
+60,61,62,63,64
+* * * * * 
+Tripura 	
+Agartala
+>2000 
+79	
+* * * * * 
+Uttar Pradesh 	
+Lucknow
+<2000
+20,21,22,23,24,25,26,27,28 	
+* * * * * 
+Uttarakhand 	
+Dehradun
+>2000
+24,26
+* * * * * 
+West Bengal 	
+Kolkata
+<2000
+70,71,72,73,74
+* * * * * 
