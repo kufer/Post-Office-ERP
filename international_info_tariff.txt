@@ -1,0 +1,485 @@
+Argentina
+South America
+525
+100
+* * * * *
+Australia
+Australia
+425
+75
+* * * * *
+Austria
+Europe
+675
+75
+* * * * *
+Bahrain
+Middle East
+425
+50
+* * * * *
+Bangladesh
+Bangladesh
+375
+25
+* * * * *
+Barbados
+North America
+425
+100
+* * * * *
+Belarus
+Europe
+675
+75
+* * * * *
+Belgium
+Europe
+675
+75
+* * * * *
+Bermuda
+North America
+425
+100
+* * * * *
+Bhutan
+Bhutan
+..........
+..........
+* * * * *
+Botswana
+Africa
+425
+50
+* * * * *
+Brunei
+Asia
+425
+50
+* * * * *
+Bulgaria
+Europe
+675
+75
+* * * * *
+Cambodia
+Asia
+425
+50
+* * * * *
+Canada
+North America
+425
+100
+* * * * *
+Cape Verde
+Africa
+425
+50
+* * * * *
+Cayman Iles
+North  America
+425
+100
+* * * * *
+China
+Asia
+425
+50
+* * * * *
+Cuba
+North America
+425
+100
+* * * * *
+Cyprus
+Europe
+675
+75
+* * * * *
+Denmark
+Europe
+675
+75
+* * * * *
+Egypt
+Middle East
+425
+50
+* * * * *
+El Salvador
+North America
+425
+100
+* * * * *
+Eritrea
+Africa
+425
+50
+* * * * *
+Estonia
+Europe
+675
+75
+* * * * *
+Ethiopia
+Africa
+425
+50
+* * * * *
+Fiji
+Australia
+425
+75
+* * * * *
+France
+Europe
+675
+75
+* * * * *
+Georgia
+Asia
+425
+50
+* * * * *
+Germany
+Europe
+675
+75
+* * * * *
+Ghana
+Africa
+425
+50
+* * * * *
+Greece
+Europe
+675
+75
+* * * * *
+Guyana
+South  America
+525
+100
+* * * * *
+Hong Kong
+Asia
+425
+50
+* * * * *
+Hungary
+Europe
+675
+75
+* * * * *
+Iceland
+Europe
+675
+75
+* * * * *
+Indonesia
+Asia
+425
+50
+* * * * *
+Iran
+Middle East
+425
+50
+* * * * *
+Iraq
+Middle East
+425
+50
+* * * * *
+Ireland
+Europe
+675
+75
+* * * * *
+Israel
+Middle East
+675
+75
+* * * * *
+Italy
+Europe
+675
+75
+* * * * *
+Japan
+Asia
+425
+50
+* * * * *
+Jordan
+Middle East
+425
+50
+* * * * *
+Kenya
+Africa
+425
+50
+* * * * *
+Kuwait
+Middle East
+425
+50
+* * * * *
+Latvia
+Europe
+675
+75
+* * * * *
+Luxemburg
+Europe
+675
+75
+* * * * *
+Macau
+Asia
+425
+50
+* * * * *
+Malawi
+Africa
+425
+50
+* * * * *
+Malaysia
+Asia
+425
+50
+* * * * *
+Maldives
+Asia
+425
+50
+* * * * *
+Mangolia
+Asia
+425
+50
+* * * * *
+Mauritius
+Africa
+425
+50
+* * * * *
+Mexico
+North America
+425
+100
+* * * * *
+Morocco
+Africa
+425
+50
+* * * * *
+Namibia
+Africa
+425
+50
+* * * * *
+Nauru
+Australia
+425
+75
+* * * * *
+Nepal
+Nepal
+375
+25
+* * * * *
+Netherlands
+Europe
+675
+75
+* * * * *
+New Zealand
+Australia
+425
+75
+* * * * *
+Niger
+Africa
+425
+50
+* * * * *
+Nigeria
+Africa
+425
+50
+* * * * *
+Norway
+Europe
+675
+75
+* * * * *
+Oman
+Middle East
+425
+50
+* * * * *
+Pakistan
+Pakistan
+375
+25
+* * * * *
+Panama
+North America
+425
+100
+* * * * *
+Papua New Guinea
+Australia
+425
+75
+* * * * *
+Phillippines
+Asia
+425
+50
+* * * * *
+Poland
+Europe
+675
+75
+* * * * *
+Portugal
+Europe
+675
+75
+* * * * *
+Qatar
+Middle East
+425
+50
+* * * * *
+Romania
+Europe
+675
+75
+* * * * *
+Russia
+Europe
+675
+75
+* * * * *
+Rwanda
+Africa
+425
+50
+* * * * *
+Saudi Arabia
+Middle East
+425
+50
+* * * * *
+Senegal
+Africa
+425
+50
+* * * * *
+Singapore
+Asia
+425
+50
+* * * * *
+South Korea
+Asia
+425
+50
+* * * * *
+Spain
+Europe
+675
+75
+* * * * *
+Sri Lanka
+Sri Lanka
+375
+25
+* * * * *
+Sudan
+Africa
+425
+50
+* * * * *
+Sweden
+Europe
+675
+75
+* * * * *
+Switzerland
+Europe
+675
+75
+* * * * *
+Taiwan
+Asia
+425
+50
+* * * * *
+Tanzania
+Africa
+425
+50
+* * * * *
+Thailand
+Asia
+425
+50
+* * * * *
+Tunisia
+Africa
+425
+50
+* * * * *
+Turkey
+Middle East
+425
+50
+* * * * *
+U.A.E..
+Middle East
+425
+50
+* * * * *
+U.S.A.
+North America
+425
+100
+* * * * *
+Uganda
+Africa
+425
+50
+* * * * *
+Ukraine
+Europe
+675
+75
+* * * * *
+United Kingdom
+Europe
+675
+75
+* * * * *
+Vietnam
+Asia
+425
+50
+* * * * *
+Yemen
+Middle East
+425
+50
+* * * * *
+Zaire
+Africa
+425
+50
+* * * * *
